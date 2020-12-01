@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap");
+
+#root {
+  background-color: black;
+}
+
+.photo-de-profil {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+.image {
+  margin-top: 15px;
+  width: 400px;
+  height: 410px;
+  border-radius: 10px;
+}
+
+.nom {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  color: darkgoldenrod;
+}
+
+.adresse {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-size: xx-large;
+}
+
+h3 {
+  margin-top: 0.25em;
+}
